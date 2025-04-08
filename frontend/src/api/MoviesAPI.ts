@@ -7,7 +7,7 @@ interface FetchMoviesResponse {
 }
 
 // const API_URL = 'https://localhost:5000/movie';
-const API_URL = 'https://cineniche-4-9-backend2.azurewebsites.net/Movie/AllMovies';
+const API_URL = 'https://cineniche-4-9-backend2.azurewebsites.net/Movie';
 const USER_API_URL = 'https://localhost:5000/user';
 
 export const fetchMovies = async (
